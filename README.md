@@ -1,6 +1,6 @@
-# Data
+# Data and data pre-processing
 
-Data have been downloaded from Billboard and Spotify. Steps followed;
+Data have been downloaded from Billboard and Spotify. 
 
 sampling of all artists with at least one occurrence in the Hot RB/Hip-Hop Songs over the Jan 1 2018 - Nov 21 2020 timespanExhaustive documentation
 
